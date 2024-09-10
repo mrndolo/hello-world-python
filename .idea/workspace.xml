@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="variables in python">
-      <change afterPath="$PROJECT_DIR$/type_conversion.py" afterDir="false" />
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="type conversion">
+      <change afterPath="$PROJECT_DIR$/strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,10 +50,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.app.executor": "Run",
+    "Python.strings.executor": "Run",
     "Python.type_conversion.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "Cherry-picking in master"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -96,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725953248652</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="type conversion">
+      <option name="closed" value="true" />
+      <created>1725954684202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725954684202</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +135,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="first program" />
     <MESSAGE value="variables in python" />
-    <option name="LAST_COMMIT_MESSAGE" value="variables in python" />
+    <MESSAGE value="type conversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="type conversion" />
   </component>
 </project>
