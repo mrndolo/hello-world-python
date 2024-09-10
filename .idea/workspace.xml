@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="first program">
-      <change afterPath="$PROJECT_DIR$/variables.py" afterDir="false" />
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="variables in python">
+      <change afterPath="$PROJECT_DIR$/type_conversion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.app.executor": "Run",
+    "Python.type_conversion.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -88,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725947104673</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="variables in python">
+      <option name="closed" value="true" />
+      <created>1725953248652</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725953248652</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="first program" />
-    <option name="LAST_COMMIT_MESSAGE" value="first program" />
+    <MESSAGE value="variables in python" />
+    <option name="LAST_COMMIT_MESSAGE" value="variables in python" />
   </component>
 </project>
