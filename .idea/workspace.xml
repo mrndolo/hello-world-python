@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="comparison operators">
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="project: weight converter">
+      <change afterPath="$PROJECT_DIR$/while_loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logical_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/logical_operators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +56,7 @@
     "Python.strings.executor": "Run",
     "Python.type_conversion.executor": "Run",
     "Python.variables.executor": "Run",
+    "Python.while_loops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
@@ -157,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726248336941</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="project: weight converter">
+      <option name="closed" value="true" />
+      <created>1726249948910</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726249948910</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,6 +203,7 @@
     <MESSAGE value="if statements" />
     <MESSAGE value="logical operators" />
     <MESSAGE value="comparison operators" />
-    <option name="LAST_COMMIT_MESSAGE" value="comparison operators" />
+    <MESSAGE value="project: weight converter" />
+    <option name="LAST_COMMIT_MESSAGE" value="project: weight converter" />
   </component>
 </project>
