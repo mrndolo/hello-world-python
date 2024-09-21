@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="for loop">
-      <change afterPath="$PROJECT_DIR$/nested_loops.py" afterDir="false" />
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="nested loops">
+      <change afterPath="$PROJECT_DIR$/lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "Python.arithmetics.executor": "Run",
     "Python.for_loop.executor": "Run",
     "Python.ifstatements.executor": "Run",
+    "Python.lists.executor": "Run",
     "Python.logical_operators.executor": "Run",
     "Python.nested_loops.executor": "Run",
     "Python.strings.executor": "Run",
@@ -200,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726714946389</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="nested loops">
+      <option name="closed" value="true" />
+      <created>1726804168728</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726804168728</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +250,7 @@
     <MESSAGE value="guessing game" />
     <MESSAGE value="while loop" />
     <MESSAGE value="for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="for loop" />
+    <MESSAGE value="nested loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="nested loops" />
   </component>
 </project>
