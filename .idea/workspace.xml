@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="lists">
-      <change afterPath="$PROJECT_DIR$/2D_Lists.py" afterDir="false" />
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="2D_lists">
+      <change afterPath="$PROJECT_DIR$/list_methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.arithmetics.executor": "Run",
     "Python.for_loop.executor": "Run",
     "Python.ifstatements.executor": "Run",
+    "Python.list_methods.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.logical_operators.executor": "Run",
     "Python.nested_loops.executor": "Run",
@@ -218,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726882891436</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2D_lists">
+      <option name="closed" value="true" />
+      <created>1726887415500</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726887415500</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -261,6 +270,7 @@
     <MESSAGE value="for loop" />
     <MESSAGE value="nested loops" />
     <MESSAGE value="lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="lists" />
+    <MESSAGE value="2D_lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="2D_lists" />
   </component>
 </project>
