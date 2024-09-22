@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="tuples">
-      <change afterPath="$PROJECT_DIR$/unpacking.py" afterDir="false" />
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="unpacking">
+      <change afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     "Python.2D_Lists.executor": "Run",
     "Python.app.executor": "Run",
     "Python.arithmetics.executor": "Run",
+    "Python.dictionaries.executor": "Run",
     "Python.for_loop.executor": "Run",
     "Python.ifstatements.executor": "Run",
     "Python.list_methods.executor": "Run",
@@ -60,6 +62,7 @@
     "Python.strings.executor": "Run",
     "Python.tuples.executor": "Run",
     "Python.type_conversion.executor": "Run",
+    "Python.unpacking.executor": "Run",
     "Python.variables.executor": "Run",
     "Python.while_loops.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -243,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726969497615</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="unpacking">
+      <option name="closed" value="true" />
+      <created>1726969873908</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726969873908</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,6 +300,7 @@
     <MESSAGE value="2D_lists" />
     <MESSAGE value="list_methods" />
     <MESSAGE value="tuples" />
-    <option name="LAST_COMMIT_MESSAGE" value="tuples" />
+    <MESSAGE value="unpacking" />
+    <option name="LAST_COMMIT_MESSAGE" value="unpacking" />
   </component>
 </project>
