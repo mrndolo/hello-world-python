@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="Parameters">
-      <change afterPath="$PROJECT_DIR$/keyword_arguments.py" afterDir="false" />
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="keyword_arguments">
+      <change afterPath="$PROJECT_DIR$/return_statement.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +63,7 @@
     "Python.logical_operators.executor": "Run",
     "Python.nested_loops.executor": "Run",
     "Python.parameters.executor": "Run",
+    "Python.return_statement.executor": "Run",
     "Python.strings.executor": "Run",
     "Python.tuples.executor": "Run",
     "Python.type_conversion.executor": "Run",
@@ -290,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727101000068</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="keyword_arguments">
+      <option name="closed" value="true" />
+      <created>1727103165299</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1727103165299</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,6 +350,7 @@
     <MESSAGE value="emoji converter" />
     <MESSAGE value="functions" />
     <MESSAGE value="Parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Parameters" />
+    <MESSAGE value="keyword_arguments" />
+    <option name="LAST_COMMIT_MESSAGE" value="keyword_arguments" />
   </component>
 </project>
