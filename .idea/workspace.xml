@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="keyword_arguments">
-      <change afterPath="$PROJECT_DIR$/return_statement.py" afterDir="false" />
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="return_statement">
+      <change afterPath="$PROJECT_DIR$/creating_a_reusable_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Python.2D_Lists.executor": "Run",
     "Python.app.executor": "Run",
     "Python.arithmetics.executor": "Run",
+    "Python.creating_a_reusable_function.executor": "Run",
     "Python.dictionaries.executor": "Run",
     "Python.emoji_converter.executor": "Run",
     "Python.for_loop.executor": "Run",
@@ -299,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727103165299</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="return_statement">
+      <option name="closed" value="true" />
+      <created>1727215766395</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1727215766395</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,7 +335,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial commit" />
     <MESSAGE value="first program" />
     <MESSAGE value="variables in python" />
     <MESSAGE value="type conversion" />
@@ -351,6 +359,7 @@
     <MESSAGE value="functions" />
     <MESSAGE value="Parameters" />
     <MESSAGE value="keyword_arguments" />
-    <option name="LAST_COMMIT_MESSAGE" value="keyword_arguments" />
+    <MESSAGE value="return_statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="return_statement" />
   </component>
 </project>
