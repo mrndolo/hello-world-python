@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="constructors">
-      <change afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="inheritance">
+      <change afterPath="$PROJECT_DIR$/converters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,10 +63,12 @@
     "Python.for_loop.executor": "Run",
     "Python.functions.executor": "Run",
     "Python.ifstatements.executor": "Run",
+    "Python.inheritance.executor": "Run",
     "Python.keyword_arguments.executor": "Run",
     "Python.list_methods.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.logical_operators.executor": "Run",
+    "Python.modules.executor": "Run",
     "Python.nested_loops.executor": "Run",
     "Python.parameters.executor": "Run",
     "Python.return_statement.executor": "Run",
@@ -351,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727299325350</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="inheritance">
+      <option name="closed" value="true" />
+      <created>1727301928985</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1727301928985</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -378,7 +390,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Math functions" />
     <MESSAGE value="if statements" />
     <MESSAGE value="logical operators" />
     <MESSAGE value="comparison operators" />
@@ -403,6 +414,7 @@
     <MESSAGE value="comments" />
     <MESSAGE value="classes" />
     <MESSAGE value="constructors" />
-    <option name="LAST_COMMIT_MESSAGE" value="constructors" />
+    <MESSAGE value="inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance" />
   </component>
 </project>
