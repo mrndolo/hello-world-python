@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="inheritance">
-      <change afterPath="$PROJECT_DIR$/converters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="modules">
+      <change afterPath="$PROJECT_DIR$/ecommerce/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce/shipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,6 +70,7 @@
     "Python.logical_operators.executor": "Run",
     "Python.modules.executor": "Run",
     "Python.nested_loops.executor": "Run",
+    "Python.packages.executor": "Run",
     "Python.parameters.executor": "Run",
     "Python.return_statement.executor": "Run",
     "Python.strings.executor": "Run",
@@ -363,7 +364,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727301928985</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="modules">
+      <option name="closed" value="true" />
+      <created>1727317104286</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1727317104286</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -390,7 +399,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="if statements" />
     <MESSAGE value="logical operators" />
     <MESSAGE value="comparison operators" />
     <MESSAGE value="project: weight converter" />
@@ -415,6 +423,7 @@
     <MESSAGE value="classes" />
     <MESSAGE value="constructors" />
     <MESSAGE value="inheritance" />
-    <option name="LAST_COMMIT_MESSAGE" value="inheritance" />
+    <MESSAGE value="modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="modules" />
   </component>
 </project>
