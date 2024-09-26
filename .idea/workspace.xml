@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="generating_random_values">
-      <change afterPath="$PROJECT_DIR$/files_and_directories.py" afterDir="false" />
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="files_and_directories">
+      <change afterPath="$PROJECT_DIR$/PyPi_and_Pip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -388,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727372671578</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="files_and_directories">
+      <option name="closed" value="true" />
+      <created>1727383986494</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1727383986494</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -415,7 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="project: weight converter" />
     <MESSAGE value="guessing game" />
     <MESSAGE value="while loop" />
     <MESSAGE value="for loop" />
@@ -440,6 +447,7 @@
     <MESSAGE value="modules" />
     <MESSAGE value="packages" />
     <MESSAGE value="generating_random_values" />
-    <option name="LAST_COMMIT_MESSAGE" value="generating_random_values" />
+    <MESSAGE value="files_and_directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="files_and_directories" />
   </component>
 </project>
