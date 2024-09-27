@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="files_and_directories">
-      <change afterPath="$PROJECT_DIR$/PyPi_and_Pip.py" afterDir="false" />
+    <list default="true" id="f85582f9-17b3-4027-a05d-3b3e8c55b84d" name="Changes" comment="PyPi_and_pip">
+      <change afterPath="$PROJECT_DIR$/excel_spreadsheets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transactions.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +58,7 @@
     "Python.creating_a_reusable_function.executor": "Run",
     "Python.dictionaries.executor": "Run",
     "Python.emoji_converter.executor": "Run",
+    "Python.excel_spreadsheets.executor": "Run",
     "Python.exceptions.executor": "Run",
     "Python.files_and_directories.executor": "Run",
     "Python.for_loop.executor": "Run",
@@ -396,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727383986494</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="PyPi_and_pip">
+      <option name="closed" value="true" />
+      <created>1727385081997</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1727385081997</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -423,7 +433,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="guessing game" />
     <MESSAGE value="while loop" />
     <MESSAGE value="for loop" />
     <MESSAGE value="nested loops" />
@@ -448,6 +457,7 @@
     <MESSAGE value="packages" />
     <MESSAGE value="generating_random_values" />
     <MESSAGE value="files_and_directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="files_and_directories" />
+    <MESSAGE value="PyPi_and_pip" />
+    <option name="LAST_COMMIT_MESSAGE" value="PyPi_and_pip" />
   </component>
 </project>
